@@ -69,5 +69,6 @@
 
 
 <h4> Check my porofolio site <h4/>
-  <a target="_blank" href="https://resumesnew-bd421.firebaseapp.com/Jj6rmK32b4WUmKpNs2LK#top" />
+  <a href="https://resumesnew-bd421.firebaseapp.com/Jj6rmK32b4WUmKpNs2LK">
+
 
