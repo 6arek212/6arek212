@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tarik</h1>
-<h3 align="center">Computer Science student at Ariel University second year</h3>
+<h3 align="center">Computer Science student at Ariel University, second year</h3>
 
 <h3 align="center"> 
   
