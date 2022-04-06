@@ -70,6 +70,6 @@
 </br></br>
 
 <a href="https://resumesnew-bd421.firebaseapp.com/Jj6rmK32b4WUmKpNs2LK">
- Check my porofolio site 
+ Check My Portfolio Website 
 </a>
 
