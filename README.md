@@ -3,7 +3,7 @@
 
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=itay-kar.itay-kar) 
+![](https://visitor-badge.laobi.icu/badge?page_id=6arek212.visitors) 
 [![Github](https://img.shields.io/github/followers/6arek212?label=Followers&style=social)](https://github.com/6arek212) 
 [![GitHub stars](https://img.shields.io/github/stars/6arek212?label=Stars&style=social)](https://github.com/6arek212)
   
