@@ -4,15 +4,15 @@
 <h3 align="center"> 
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=itay-kar.itay-kar) 
-[![Github](https://img.shields.io/github/followers/TalMalchi?label=Followers&style=social)](https://github.com/TalMalchi) 
-[![GitHub stars](https://img.shields.io/github/stars/TalMalchi?label=Stars&style=social)](https://github.com/TalMalchi)
+[![Github](https://img.shields.io/github/followers/6arek212?label=Followers&style=social)](https://github.com/6arek212) 
+[![GitHub stars](https://img.shields.io/github/stars/6arek212?label=Stars&style=social)](https://github.com/6arek212)
   
 </h3>
 
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/tal-malchi-39855b214/)](http://www.linkedin.com/in/tal-malchi-39855b214/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/6arek212-39855b214/)](http://www.linkedin.com/in/tal-malchi-39855b214/)
 [![Gmail Badge](https://img.shields.io/badge/-tarik.id.10@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itaygrx@gmail.com)](mailto:malchital@gmail.com)
 <a href="https://he-il.facebook.com/tal.malchi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 
