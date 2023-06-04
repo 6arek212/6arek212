@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Tarik%20Husin%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Tarik%20Husin&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi there 👋, I'm Tarik</h1>
 <h3 align="center">Computer Science student at Ariel University, second year</h3>
