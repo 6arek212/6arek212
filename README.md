@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/profile.php?id=100001463364259"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook" height="25"/></a>
 
 
-<h1> 🔬 My Knowlege:</h1>
+<h1> 🔬 My Knowledge:</h1>
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
